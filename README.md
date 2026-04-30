@@ -1,4 +1,4 @@
-# 💸 MiniVenmo: Social Payment System
+Social Payment System
 
 A hybrid **Django/FastAPI** architecture for social payments. Features include user balance management, symmetric friendships, and a dynamic activity feed.
 
